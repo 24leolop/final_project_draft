@@ -4,5 +4,5 @@ This project uses the [Netflix Movies and TV Shows Dataset](https://www.kaggle.c
 
 To run this project:
 1. Download the dataset from the link above
-2. Place `customer_churn.csv` in the `data/` folder
+2. Place `netflix_titles.csv` in the `data/` folder
 3. The file structure should be: `data/netflix_titles.csv`
